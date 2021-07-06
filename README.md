@@ -1,5 +1,3 @@
-Advance Python  Assignment :
- 
 Build a python application that can perform the following tasks: 
 
 Scrape IMDB website to get the top 5 most popular movies 
